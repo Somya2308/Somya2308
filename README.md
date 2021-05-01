@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Somya2308
+- 👋 Hi, I’m @Somya2308, a B.tech Electronics student from VJTI,Mumbai.
 - 👀 I’m interested in all programming related to html-css,javascript,cpp,dbms
 - 🌱 I’m currently learning python,java,unix and bigdata
 - 💞️ I’m looking to collaborate on cpp modules and html-css based modules
-- 📫 You can mail me on somyajain2308@gmail.com if you wish to collaborate with me!
+- 📫 You can find me on www.linkedin.com/in/somya-jain-2308 if you wish to collaborate with me!
 - I am going to be starting a python repository of my learnings, feel free to add any important codes/tutorials you feel are important
 
 <!---
